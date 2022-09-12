@@ -6,7 +6,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dannyrashd)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03ef62?style=flat-square&logo=datacamp&logoColor=black)](https://www.datacamp.com/profile/dannyrashd)
 
-- 🔭 I’m currently working on [Concrete Image Detection](https://github.com/danny-rashd/ai07-concrete-image-classification)
 - 🌱 I’m currently learning [Scala](https://www.scala-lang.org/)
 - 💬 Ask me about anything on [issues](https://github.com/danny-rashd/danny-rashd/issues)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dannyrashd/), [DataCamp](https://www.datacamp.com/profile/dannyrashd), [kaggle](https://www.kaggle.com/dannyrashd)
