@@ -10,7 +10,7 @@
 - 💬 Ask me about anything on [issues](https://github.com/danny-rashd/danny-rashd/issues)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dannyrashd/), [DataCamp](https://www.datacamp.com/profile/dannyrashd), [kaggle](https://www.kaggle.com/dannyrashd)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Owner of two cats🐈🐈, avid fan of Boston Celtics 🍀 and Liverpool FC 🔴
+- ⚡ Fun fact: Owner of two cats🐈🐈, fan of Boston Celtics 🍀 and Liverpool FC 🔴
 
 <h2 align="left" id="danny-rashd-tech">Github Stats 📊</h2>
     <br/>
