@@ -6,7 +6,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/dannyrashd)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03ef62?style=flat-square&logo=datacamp&logoColor=black)](https://www.datacamp.com/profile/dannyrashd)
 
-- 🌱 I’m currently learning [Go](https://go.dev/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Ask me about anything on [issues](https://github.com/danny-rashd/danny-rashd/issues)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dannyrashd/), [DataCamp](https://www.datacamp.com/profile/dannyrashd), [kaggle](https://www.kaggle.com/dannyrashd)
 - 😄 Pronouns: He/Him
