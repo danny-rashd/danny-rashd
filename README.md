@@ -14,8 +14,8 @@
 
 <h2 align="left" id="danny-rashd-tech">Github Stats 📊</h2>
     <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="danny-rashd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danny-rashd&show_icons=true&theme=gruvbox" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="muame-amr's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danny-rashd&langs_count=8&layout=compact&theme=vue-dark&hide_border=true&bg_color=1F222E&icon_color=F8D866&hide=html,css,Jupyter%20Notebook" height="192px"/></a>
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="danny-rashd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danny-rashd&show_icons=true&theme=gruvbox" height="192px"/></a> -->
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="muame-amr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danny-rashd&layout=compact&theme=vue-dark&hide_border=true&bg_color=1F222E&icon_color=F8D866&hide=html,css,Jupyter%20Notebook" height="192px"/></a>
     <br/>
 
 <!--
